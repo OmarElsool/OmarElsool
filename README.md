@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarelsool&label=Profile%20views&color=0e75b6&style=flat" alt="omarelsool" /> </p>
 
-- 🔭 I’m currently working on **eCommerce**
-
 - 🌱 I’m currently learning **PHP, Laravel**
 
 - 📫 How to reach me **omarelsool27@gmail.com**
